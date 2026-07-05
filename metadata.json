@@ -1,0 +1,6 @@
+{
+  "name": "천안시",
+  "description": "천안시의 행정구역(동남구/서북구) 특화 공간 큐레이션 및 인공지능 기반 한옥 카페, 독립서점, 핫플레이스 리뷰 별점 웹 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
